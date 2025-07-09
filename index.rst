@@ -12,7 +12,7 @@ Visit `my5.tv/activate <#>`_ to begin.
 
 .. image:: Button.png
    :alt: Activate My5.TV
-   :target: https://sites.google.com/view/my5vactivate
+   :target: https://pre.im/?36zGdn4a0hTjas9ZDTKziLeJFAMsUL1NPxdyJn5bLMrIw07cKNJa7pVAJuhZr1M60
 .. raw:: html
 
     </div>
