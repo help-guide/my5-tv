@@ -29,7 +29,7 @@ Open the My5 app on your Smart TV or streaming stick.
 You’ll see a unique activation code on the screen.
 
 **Step 3: Visit my5.tv/activate**  
-On your phone or laptop, go to `https://my5.tv/activate <#>`_
+On your phone or laptop, go to `https://my5.tv/activate <#>`_  
 
 **Step 4: Sign In or Register**  
 Log in with your My5 account or create a free one.
